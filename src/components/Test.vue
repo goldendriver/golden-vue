@@ -1,10 +1,10 @@
 <script setup>
-defineProps({
-  data: {
-    type: Number,
-    requird: false
-  }
-})
+    defineProps({
+        data: {
+            type: Number,
+            requird: false
+        }
+    });
 </script>
 
 <template>
