@@ -2,6 +2,7 @@
 import HelloWorld from './components/HelloWorld.vue'
 import TheWelcome from './components/TheWelcome.vue'
 import Test from './components/Test.vue'
+import Test1 from './components/Test1.vue'
 </script>
 
 <template>
@@ -11,6 +12,7 @@ import Test from './components/Test.vue'
     <div class="wrapper">
       <HelloWorld msg='<span style="color:red">this should be red</span>' />
       <Test data=0 />
+      <Test1 />
     </div>
   </header>
 
